@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi there, I'm Aditya 👋
 
-<!--
-**Aditya201514049/Aditya201514049** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
+I'm a passionate software developer with expertise in the MERN stack (MongoDB, Express, React, Node.js) and Next.js. I enjoy building scalable web applications and exploring modern JavaScript frameworks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧑‍🎓 Skills: MERN Stack, Next.js, JavaScript, TypeScript, REST APIs, MongoDB, Express, React, Node.js, HTML, CSS
+- 🌱 Interests: Full-stack development, open-source contribution, performance optimization, cloud deployment
+- 🤝 Open to collaborating on interesting open-source projects and learning from the community
+
+## 🌍 Connect With Me
+- [LinkedIn](https://www.linkedin.com/in/aditya-singha-joy)
+- [Twitter](https://x.com/Adi_singha)
+- [Portfolio](https://portfolio-aditya-singhas-projects.vercel.app)
+
+## 📈 GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Aditya201514049&show_icons=true&theme=default" alt="Aditya's GitHub stats" />
+</p>
+
+## 🏆 Most Used Languages
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya201514049&layout=compact&theme=default" alt="Top Languages" />
+</p>
+
+## 🔥 Contribution Streak
+
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya201514049&theme=default" alt="GitHub Streak" />
+</p>
+
+---
+
+Thanks for stopping by! If you have an exciting project or idea, feel free to reach out – let's build something awesome together.
+
