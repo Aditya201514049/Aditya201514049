@@ -10,7 +10,7 @@ I'm a passionate software developer with expertise in the MERN stack (MongoDB, E
 - 🤝 Open to collaborating on interesting open-source projects and learning from the community
 
 ## 🌍 Connect With Me
-- [LinkedIn](https://www.linkedin.com/in/aditya-singha-joy)
+- [LinkedIn](https://www.linkedin.com/in/aditya-singha-joy1)
 - [Twitter](https://x.com/Adi_singha)
 - [Portfolio](https://portfolio-aditya-singhas-projects.vercel.app)
 
