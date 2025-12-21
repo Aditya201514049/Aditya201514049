@@ -1,5 +1,4 @@
 # Hi there, I'm Aditya 👋
-
 Welcome to my GitHub profile!
 
 ## 👨‍💻 About Me
@@ -15,24 +14,19 @@ I'm a passionate software developer with expertise in the MERN stack (MongoDB, E
 - [Portfolio](https://portfolio-aditya-singhas-projects.vercel.app)
 
 ## 📈 GitHub Stats
-
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Aditya201514049&show_icons=true&theme=default" alt="Aditya's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aditya201514049&amp;show_icons=true&amp;theme=default" alt="Aditya's GitHub stats" />
 </p>
 
 ## 🏆 Most Used Languages
-
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya201514049&layout=compact&theme=default" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya201514049&amp;layout=compact&amp;theme=default" alt="Top Languages" />
 </p>
 
 ## 🔥 Contribution Streak
-
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya201514049&theme=default" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya201514049&amp;theme=default" alt="GitHub Streak" />
 </p>
 
 ---
-
 Thanks for stopping by! If you have an exciting project or idea, feel free to reach out – let's build something awesome together.
-
