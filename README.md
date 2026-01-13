@@ -14,9 +14,7 @@ I'm a passionate software developer with expertise in the MERN stack (MongoDB, E
 - [Portfolio](https://portfolio-aditya-singhas-projects.vercel.app)
 
 ## 📈 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Aditya201514049&amp;show_icons=true&amp;theme=default" alt="Aditya's GitHub stats" />
-</p>
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=YOUR_ACTUAL_USERNAME&show_icons=true&theme=default)
 
 ## 🏆 Most Used Languages
 <p>
