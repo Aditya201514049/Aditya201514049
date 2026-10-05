@@ -28,7 +28,7 @@ I'm a passionate software developer with expertise in the MERN stack (MongoDB, E
 ## 🔥 Contribution Streak
 
 <p>
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya201514049&amp;theme=default" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Aditya201514049&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
