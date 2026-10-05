@@ -16,13 +16,13 @@ I'm a passionate software developer with expertise in the MERN stack (MongoDB, E
 ## 📈 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Aditya201514049&show_icons=true&theme=radical" alt="Aditya's GitHub stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Aditya201514049&show_icons=true&theme=radical" alt="Aditya's GitHub stats" />
 </p>
 
 ## 🏆 Most Used Languages
 
 <p>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Aditya201514049&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Aditya201514049&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ## 🔥 Contribution Streak
